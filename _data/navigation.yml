@@ -1,11 +1,11 @@
-- title: About
-  url: /about/
-- title: Years
-  url: /years/
-- title: Categories
-  url: /categories/
-- title: Tags
-  url: /tags/
+- title: Profile
+  url: /Profile/
+- title: Ability
+  url: /Abilit/
+- title: MBTI
+  url: /MBTI/
+- title: Hobby
+  url: /Hobby/
 - title: More
   sublinks:
     - title: FAQ
